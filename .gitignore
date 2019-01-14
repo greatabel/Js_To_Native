@@ -9,6 +9,9 @@ New gist
 0@elliot-labselliot-labs/.gitignore
 Last active 3 months ago • 
  
+node_modules/
+
+
 <script src="https://gist.github.com/elliot-labs/c92b3e52053906816074170ada511962.js"></script>
   
  Code  Revisions 5  Stars 5
