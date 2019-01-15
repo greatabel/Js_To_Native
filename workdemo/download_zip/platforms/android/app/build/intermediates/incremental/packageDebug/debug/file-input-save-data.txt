@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jan 15 15:29:47 CST 2019
+#Tue Jan 15 17:25:42 CST 2019
 5.base=/Users/wanchang/Downloads/AbelProject/Js_To_Native/workdemo/download_zip/platforms/android/app/build/intermediates/assets/debug
 42.base=/Users/wanchang/Downloads/AbelProject/Js_To_Native/workdemo/download_zip/platforms/android/app/build/intermediates/assets/debug
 22.path=www/plugins/cordova-plugin-file/www/DirectoryEntry.js
