@@ -23,5 +23,7 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <engine name="android" spec="~7.1.4" />
+    <plugin name="cordova-plugin-file-downloader" spec="^0.4.0" />
+    <plugin name="cordova-plugin-dialogs" spec="^2.0.1" />
+    <engine name="android" spec="^7.1.4" />
 </widget>
