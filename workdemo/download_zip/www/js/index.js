@@ -14,7 +14,8 @@ function init() {
                   var data = event.data;
                   navigator.notification.alert(
                 // cordova.file.cacheDirectory + "/testApp/" + data,  null, "Alert Test", "OK!");
-                cordova.file.cacheDirectory + "/testApp/" + "tank0" + JSON.stringify(data),  null, "Alert Test", "OK!");
+                // cordova.file.cacheDirectory + "/testApp/" + "tank0" + JSON.stringify(data),  null, "Alert Test", "OK!");
+                cordova.file.cacheDirectory + "/testApp/" + "tank0 data=" + JSON.stringify(data),  null, "Alert Test", "OK!");  
             });
             // navigator.notification.alert(
             //     "下载中...", null, "Alert Test", "OK!");
