@@ -1,4 +1,4 @@
-#Tue Jan 15 17:25:42 CST 2019
+#Wed Jan 16 10:21:35 CST 2019
 base.0=/Users/wanchang/Downloads/AbelProject/Js_To_Native/workdemo/download_zip/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

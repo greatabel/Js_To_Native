@@ -7,7 +7,8 @@ function init() {
     document.querySelector("#downloadTest").addEventListener("touchend", 
         function() {
             var tank0_url = "https://lumistatic.blob.core.chinacloudapi.cn/rinnegandemo/tank0.zip";
-            downloader.init({folder: "testApp", unzip: true, delete: false});
+            // folder 为 . 是当前目录，不再创建一个子文件夹
+            downloader.init({folder: ".", unzip: true, delete: false});
             downloader.get(tank0_url);
 
             document.addEventListener("DOWNLOADER_downloadSuccess", function(event){
